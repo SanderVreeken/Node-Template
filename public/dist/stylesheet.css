@@ -1,3 +1,16 @@
 body {
-    background-color: blue;
+   
+}
+
+#box {
+    height: 240px;
+    width: 320px;
+    border: 0.2em solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#photo {
+    width: 184px;
 }
